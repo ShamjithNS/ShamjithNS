@@ -18,3 +18,17 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamjithns&show_icons=true&locale=en" alt="shamjithns" /></p>
 
+
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=ShamjithNS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
+</p>
+
