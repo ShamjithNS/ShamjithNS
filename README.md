@@ -32,3 +32,24 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
 </p>
 
+<!---
+# Languages
+<h4 align="center">Most used languages (by number of commits)</h4>
+<p align="center">
+	<a href="https://profile.codersrank.io/user/ShamjithNS#Tech%20Skills">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ShamjithNS&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
+	</a>
+</p>
+--->
+
+<!---
+# Contributions
+<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+--->
+
+<!---
